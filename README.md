@@ -15,13 +15,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Projects made with CoderLab
+- 🔭 I’m currently looking for a job as Junior Front-end developer
 
-- 🌱 I’m currently learning everything from the beginning, especially HTML, CSS, JS, React 
+- 🌱 I’m learning JS, React.js and Node.js. In the meantime, I read a lot about TypeScript and Bootstrap, and I think this will be the next point of my education.
 
-- 👯 I’m looking to collaborate on Projects 
-
-- 💬 Talk to me about Opportunites, JavaScript 
+- 💬 Talk to me about job opportunites and the ways to improve my code. 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/90272040?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>

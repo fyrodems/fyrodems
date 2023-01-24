@@ -7,7 +7,7 @@
 
 ###
 
-<h2> About Me </h2>
+<h2> about me </h2>
 
 - I’m currently looking for a job as Front-end developer
 

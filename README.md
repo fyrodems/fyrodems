@@ -1,8 +1,5 @@
 <h2 align="left">Hi! My name is Martyna and I'm a Full Stack Overflower</h2>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=90272040.90272040)
-
 </p>
 
 ###
@@ -58,6 +55,9 @@
 ###
 
 <br clear="both">
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=90272040.90272040)
 
 <h2> spotify </h2>
 

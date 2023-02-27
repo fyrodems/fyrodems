@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Martyna and I'm a Full Stack Overflower</h2>
+<h2 align="left">Hi! My name is Martyna and I'm a Front-End Developer</h2>
 <p align='center'>
 </p>
 

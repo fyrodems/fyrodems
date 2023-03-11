@@ -57,7 +57,7 @@
 <br clear="both">
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=90272040.90272040)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=90272040.90272040) -->
 
 <h2> spotify </h2>
 

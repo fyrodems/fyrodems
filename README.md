@@ -8,7 +8,7 @@
 
 - I’m currently looking for a job as Front-end developer
 
-- I’m learning JS, React.js and Node.js. In the meantime, I read a lot about TypeScript and Bootstrap, and I think this will be the next point of my education.
+- I’m learning JS, TS, React.js and Node.js. In the meantime, I read a lot about Angular, and I think this will be the next point of my education.
 
 - Talk to me about job opportunites and the ways to improve my code.
 

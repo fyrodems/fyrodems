@@ -7,7 +7,6 @@
 <h2> about me </h2>
 
 I am a graduate in Information Architecture and Front-End Developer with a passion for designing and creating functional user interfaces. 
-<br clear="both">
 In my work, I combine my knowledge and skills in information design with practical programming skills to create websites and applications that not only look beautiful but are also easy to use and intuitive for users.
 
 - I’m currently looking for a job as Front-end developer

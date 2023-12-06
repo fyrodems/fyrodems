@@ -8,10 +8,10 @@
 
 I am a graduate in Information Architecture and Front-End Developer with a passion for designing and creating functional user interfaces. 
 In my work, I combine my knowledge and skills in information design with practical programming skills to create websites and applications that not only look beautiful but are also easy to use and intuitive for users.
-
-- I’m currently looking for a job as Front-end developer
-
-- I’m learning JS, TS, React.js and Node.js. In the meantime, I read a lot about Angular, and I think this will be the next point of my education.
+<br clear="both">
+I am constantly learning JS, TS, React.js and Node.js. In the meantime, I read a lot about Angular, and I think this will be the next point of my education.
+<br clear="both">
+I am open to new challenges and eager to collaborate with a team that values innovation and quality in their work.
 
 <br clear="both">
 <br clear="both">

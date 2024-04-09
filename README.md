@@ -46,7 +46,7 @@ I am open to new challenges and eager to collaborate with a team that values inn
 
 ###
 
-<h2> tech stack </h2>
+<h3> tech stack </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />

@@ -64,10 +64,15 @@ I am open to new challenges and eager to collaborate with a team that values inn
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=90272040.90272040) -->
 
-<h2> spotify </h2>
 
+
+<!-- <div>
+  <h2> spotify </h2>
+  
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212.3&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1212.3&redirect=true)
+</div> -->
+
 
 
 

@@ -1,7 +1,11 @@
 <h2 align="left">Hi! My name is Martyna and Full Stack Developer</h2>
 <div align='center'></div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=fyrodems&theme=juicyfresh&rank=-C)
+![trophy](https://hacked-github-stat-trophies.vercel.app/?username=fyrodems&rank=SECRET,SSS,SS,S&theme=monokai&margin-w=18&margin-h=18&no-bg=true&no-frame=true) 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=fyrodems&theme=monokai&rank=-C,-?&margin-w=18&margin-h=18)
+
+<!-- ![trophy](https://hacked-github-stat-trophies.vercel.app/?username=fyrodems&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=gruvbox&margin-w=18&margin-h=10) -->
 <!-- (https://github.com/ryo-ma/github-profile-trophy) -->
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=fyrodems&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 

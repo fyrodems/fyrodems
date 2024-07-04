@@ -2,6 +2,10 @@
 <p align='center'>
 </p>
 
+
+<!--  [![trophy](https://github-profile-trophy.vercel.app/?username=fyrodems&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+
 ###
 
 <h2> about me </h2>

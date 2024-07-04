@@ -10,6 +10,23 @@
 
 <h2> about me </h2>
 
+
+I am a Full Stack Developer with a strong foundation in Information Architecture and a keen interest in designing and developing comprehensive web solutions. My journey began with a focus on front-end development, creating visually appealing and user-friendly interfaces, and has now expanded to encompass back-end technologies and complete system integrations.
+
+Skills and Expertise:
+
+	•	Front-End Development: Proficient in JavaScript, and TypeScript with extensive experience in React.js and Angular for crafting dynamic and responsive web applications.
+	•	Back-End Development: Skilled in Node.js, Express.js, Python, C# and database management with SQL, ensuring seamless and efficient server-side operations.
+	•	Full Stack Projects: Developed and maintained full-stack applications, demonstrating expertise in both client-side and server-side technologies, and ensuring smooth interaction between the two.
+
+Continuous Learning and Growth:
+
+	•	Currently pursuing a Master’s degree in Computer Science, focusing on advanced topics in web development, software engineering, and system architecture.
+	•	Actively expanding my knowledge base by exploring new frameworks and tools, with an emphasis on enhancing my proficiency in Angular and other modern web technologies.
+
+I am always open to connecting with like-minded professionals and exploring opportunities that allow me to leverage my skills and knowledge in exciting and impactful ways. Let’s create something amazing together!
+
+
 I am a graduate in Information Architecture and Front-End Developer with a passion for designing and creating functional user interfaces. 
 In my work, I combine my knowledge and skills in information design with practical programming skills to create websites and applications that not only look beautiful but are also easy to use and intuitive for users.
 <br clear="both">

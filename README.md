@@ -1,7 +1,7 @@
 <h2 align="left">Hi! My name is Martyna and Full Stack Developer</h2>
 <div align='center'></div>
 
-![trophy](https://hacked-github-stat-trophies.vercel.app/?username=fyrodems&rank=SECRET,SSS,SS,S&theme=monokai&margin-w=18&margin-h=18&no-bg=true&no-frame=true) 
+![trophy](https://hacked-github-stat-trophies.vercel.app/?username=fyrodems&rank=SECRET,SSS,SS,S&theme=monokai&margin-w=18&margin-h=18) 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=fyrodems&theme=monokai&rank=-C,-?&margin-w=18&margin-h=18)
 

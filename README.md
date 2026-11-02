@@ -1,130 +1,136 @@
-<h2 align="left">Hi! My name is Martyna and I'm Full Stack Developer</h2>
-<div align='center'></div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F5AF0,50:2CB67D,100:FF8BD0&height=230&section=header&text=Martyna%20Filipiak&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Laravel&descAlignY=64&descSize=18&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Martyna Filipiak" />
 
-![trophy](https://hacked-github-stat-trophies.vercel.app/?username=fyrodems&rank=SECRET,SSS,SS,S&theme=monokai&margin-w=18&margin-h=18) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=2CB67D&center=true&vCenter=true&width=680&lines=Building+an+event+platform+end+to+end;Drag-and-drop+CMS+page+builder+%F0%9F%A7%B1;Email%2C+SMS+%26+push+campaigns+%F0%9F%93%A8;React+%2B+TypeScript+on+the+front%2C+Laravel+on+the+back;1.1k%2B+pull+requests+and+counting+%F0%9F%9A%80" alt="typing intro" />
+</p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=fyrodems&theme=monokai&rank=-C,-?&margin-w=18&margin-h=18)
+<p align="center">
+  <a href="https://www.linkedin.com/in/martyna-filipiak/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/martyna-filipiak"><img src="https://img.shields.io/badge/Work%20GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="work GitHub" /></a>
+</p>
 
-<!-- ![trophy](https://hacked-github-stat-trophies.vercel.app/?username=fyrodems&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=gruvbox&margin-w=18&margin-h=10) -->
-<!-- (https://github.com/ryo-ma/github-profile-trophy) -->
-<!--  [![trophy](https://github-profile-trophy.vercel.app/?username=fyrodems&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/5.1k%2B-contributions%20last%20year-7F5AF0?style=flat-square" alt="5.1k+ contributions" />
+  <img src="https://img.shields.io/badge/1.1k%2B-pull%20requests-2CB67D?style=flat-square" alt="1.1k+ pull requests" />
+  <img src="https://img.shields.io/badge/19-repositories-FF8BD0?style=flat-square" alt="19 repositories" />
+  <img src="https://img.shields.io/badge/22%25-of%20activity%20is%20code%20review-F2CC60?style=flat-square" alt="22% code review" />
+</p>
 
-<h2> about me </h2>
+---
 
-With a robust background in Information Architecture and a versatile skill set in both front-end and back-end development, I am dedicated to crafting web solutions. My journey began with a passion for designing user-friendly interfaces and has evolved into a full-stack expertise, enabling me to deliver end-to-end web applications.
-<br clear="both">
-I am always open to connecting with like-minded professionals and exploring opportunities that allow me to leverage my skills.
-<!--  I am always open to connecting with like-minded professionals and exploring opportunities that allow me to leverage my skills and knowledge in exciting and impactful ways. Let’s create something amazing together! -->
+## 👩‍💻 About me
 
+<img align="right" width="280" src="https://i.imgflip.com/6tj9yb.jpg" alt="Commits are cheap meme" />
 
+Full stack developer at **[Gridaly](https://gridaly.com)**, an event platform. I work across the whole product — the **React/TypeScript** apps organizers and attendees use, the **shared component packages** behind them, and the **Laravel API** underneath. I also do a lot of technical support, so I know how features behave once real users get to them.
 
-<h3>Skills and Expertise</h3>
+- 🎓 **MSc in Computer Science**
+- 🧭 Background in **Information Architecture** — UX was my first love
+- 🔎 I review almost as eagerly as I write code
+- 💬 Ask me about page builders, SSR & hydration, campaign tooling, design systems
 
-• <b>Front-End Development:</b> Proficient in JavaScript, and TypeScript with extensive experience in React.js and Angular for crafting dynamic and responsive web applications.
-<br clear="both"><br clear="both">
-• <b>Back-End Development:</b> Skilled in Node.js, Express.js, Python, C# and database management with SQL, ensuring seamless and efficient server-side operations.
-<br clear="both"><br clear="both">
-• <b>Full Stack Projects:</b> Developed and maintained full-stack applications, demonstrating expertise in both client-side and server-side technologies, and ensuring smooth interaction between the two.
-<br clear="both"><br clear="both">
-<h3>Continuous Learning and Growth</h3>
+<br clear="right" />
 
-• Currently pursuing a Master’s degree in Computer Science, focusing on advanced topics in web development, software engineering, and system architecture.
-<br clear="both"><br clear="both">
-• Actively expanding my knowledge base by exploring new frameworks and tools, with an emphasis on enhancing my proficiency in Angular and other modern web technologies.
+## 🚢 Things I've shipped
 
-<br clear="both">
-<br clear="both">
+<details open>
+<summary><b>🧱 Drag-and-drop CMS page builder</b></summary>
+<br />
 
-<!-- 
-I am a graduate in Information Architecture and Front-End Developer with a passion for designing and creating functional user interfaces. 
-In my work, I combine my knowledge and skills in information design with practical programming skills to create websites and applications that not only look beautiful but are also easy to use and intuitive for users.
-<br clear="both">
-<br clear="both">
-I am constantly learning JS, TS, React.js and Node.js. In the meantime, I read a lot about Angular, and I think this will be the next point of my education.
-<br clear="both">
-<br clear="both">
-I am open to new challenges and eager to collaborate with a team that values innovation and quality in their work.
--->
+- extracted the **renderer engine** into its own module
+- composition layouts with **content carry-over** when switching
+- page-level **style tokens** with inheritance
+- reliable drop targeting inside tabs, accordions and sliders
+- template preview, color pickers, image re-upload from URL
+- SSR & hydration work for static page rendering
 
+</details>
 
+<details open>
+<summary><b>📨 Communication module — email, SMS & push</b></summary>
+<br />
 
+- **email campaign creator** — recipients, send & review flows
+- **SMS & push campaigns** sharing one audience query
+- **system emails** dashboard: template variants, ordering, per-recipient delivery log, test sends, restore defaults
+- frontend data layer on **TanStack Query**, with matching **Laravel** endpoints
 
-<h2> stats & social </h2>
+</details>
 
-<div align="center" style="display:flex; gap:50px;" >
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=fyrodems" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&username=fyrodems" height="150" alt="languages graph"  />
-</div>
+<details>
+<summary><b>🎓 Certificate designer</b></summary>
+<br />
 
+- variable picker for dynamic content
+- typography controls
+- save summary before publishing
 
-###
+</details>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/martyna-filipiak/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/fyrodems#7635" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-</div>
+<details>
+<summary><b>🎟️ Event & attendee experience</b></summary>
+<br />
 
-###
+- agenda with personal **notes** and header filters
+- **polls** organizer settings
+- **courses & recordings** with backend-driven blocks
+- attendee profiles, partners, tickets
 
-<img align="right" height="250" src="https://i.imgflip.com/6tj9yb.jpg"  />
+</details>
 
-###
+<details>
+<summary><b>🧩 Embeddable widgets & forms</b></summary>
+<br />
 
-<h3> tech stack </h3>
+- form plugin rendered in **Shadow DOM**
+- widgets that render on **external websites**
+- **Rollup** library builds with type declarations
+- file uploads moved to a backend **S3** flow
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mobx/mobx-original.svg" height="30" width="42" alt="mobx logo"  />  
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" width="42" alt="tailwindcss logo"  />  <!-- (może wordmark?) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materializecss/materializecss-original.svg" height="30" width="42" alt="materializecss logo"  />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="30" width="42" alt="antdesign logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="42" alt="materialui logo"  />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="30" width="42" alt="nodejs logo"  /> <!-- (może wordmark?) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original-wordmark.svg" height="30" width="42" alt="prisma logo"  />  <!-- (może wordmark?) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" width="42" alt="graphql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trpc/trpc-original.svg" height="30" width="42" alt="trpc logo"  />
-    <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" width="42" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" width="42" alt="mysql logo"  />  <!-- (może wordmark?) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
-    
+</details>
 
-  
+<details>
+<summary><b>🌍 i18n & developer experience</b></summary>
+<br />
 
-  
-  
-</div>
+- **SimpleLocalize** translation automation
+- lazy, module-scope translation loading
+- Font Awesome → **Remix Icons** migration
+- feature flags for safe rollouts
 
-###
+</details>
 
-<br clear="both">
+## 🗓 Recent timeline
 
+| | |
+|:--|:--|
+| **2026 H2** | Renderer engine & composition layouts · certificate designer · email, SMS, push & system email campaigns |
+| **2026 H1** | CMS editor overhaul — templates, color pickers, uploads · courses & recordings |
+| **2025 H2** | New form UI for the admin dashboard · embeddable partner widgets · Remix Icons migration |
+| **2025 H1** | Component library on Tailwind + AlignUI · agenda notes, polls, translation automation |
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=90272040.90272040) -->
+## 🛠 Tech stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,redux,tailwind,css,materialui&perline=9" alt="frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,cs,graphql,prisma,firebase&perline=9" alt="backend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,aws,rollupjs,vite,githubactions,git,figma&perline=8" alt="tools" />
+</p>
 
-
-<!-- <div>
-  <h2> spotify </h2>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212.3&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1212.3&redirect=true)
-</div> -->
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white" alt="MobX" />
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" alt="tRPC" />
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/Shadow%20DOM-7F5AF0?style=flat-square&logo=webcomponentsdotorg&logoColor=white" alt="Shadow DOM" />
+  <img src="https://img.shields.io/badge/SimpleLocalize-2CB67D?style=flat-square&logo=googletranslate&logoColor=white" alt="SimpleLocalize" />
+</p>
 
 
-###
+
+> [!TIP]
+> Got a weird hydration warning or a drag-and-drop that drops in the wrong place? Ping me on LinkedIn — I probably have a war story about it.
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF8BD0,50:2CB67D,100:7F5AF0&height=120&section=footer" width="100%" alt="" />
